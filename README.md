@@ -6,7 +6,7 @@ Realtime Weather App Chrome Extension using React Js and OpenWeather Api
 
 ## Acknowledgements
 
- - Live Working - 
+ - Live Working - https://weatherappextension.netlify.app/
 
 
 ## Screenshots
